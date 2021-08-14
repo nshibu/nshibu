@@ -33,19 +33,10 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 <br />
-<br />
-
 ---
 ![Shibu's GitHub stats](https://github-readme-stats.vercel.app/api?username=nshibu&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nshibu)](https://github.com/nshibu/github-readme-stats)
-
-<a href="https://github.com/nshibu/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nshibu&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/nshibu/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nshibu&repo=convoychat" />
-</a>
 
 [website]: https://shibu.dev
 [twitter]: https://twitter.com/shibu_nadarajan

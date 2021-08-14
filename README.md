@@ -42,7 +42,7 @@
 ---
 
 <div style="text-align: right">![Shibu's GitHub stats](https://github-readme-stats.vercel.app/api?username=nshibu&show_icons=true) </div>
-<div style="text-align: left">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nshibu)](https://github.com/nshibu/github-readme-stats) </div>
+<div style="text-align: left">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nshibu)](https://github.com/nshibu/github-readme-stats) </div>
 
 [website]: https://shibu.dev
 [twitter]: https://twitter.com/shibu_nadarajan

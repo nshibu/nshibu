@@ -36,15 +36,9 @@
 <br />
 
 ---
+![Shibu's GitHub stats](https://github-readme-stats.vercel.app/api?username=nshibu&show_icons=true)
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Shibu's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nshibu&show_icons=true&hide_border=true" />
-
-</details>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/nshibu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nshibu)](https://github.com/nshibu/github-readme-stats)
 
 <a href="https://github.com/nshibu/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nshibu&repo=github-readme-stats" />

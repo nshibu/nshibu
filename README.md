@@ -39,7 +39,8 @@
   
 </p>
 <br />
----
+
+<hr style="border:2px solid gray"> </hr>
 
 ![Shibu's GitHub stats](https://github-readme-stats.vercel.app/api?username=nshibu&show_icons=true) 
 

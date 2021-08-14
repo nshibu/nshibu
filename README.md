@@ -44,6 +44,10 @@
 ![Shibu's GitHub stats](https://github-readme-stats.vercel.app/api?username=nshibu&show_icons=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nshibu)
 
+
+[![Shibu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nshibu)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [website]: https://shibu.dev
 [twitter]: https://twitter.com/shibu_nadarajan
 [instagram]: https://instagram.com/shibu_ns
